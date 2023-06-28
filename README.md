@@ -5,12 +5,12 @@ Api rest con conexiones a base de datos, registro e inicio de sesión de cuentas
 
 ## Funciones
 
-[x] Crud de cuentas (registro, inicio de sesión)
-[x] Generación de token
-[ ] Registro de tiendas
-[ ] Registro de productos-
-[ ] Dashboard de ventas
-[ ] Lista y categorización de productos 
+- [x] Crud de cuentas (registro, inicio de sesión)
+- [x] Generación de token
+- [ ] Registro de tiendas
+- [ ] Registro de productos-
+- [ ] Dashboard de ventas
+- [ ] Lista y categorización de productos 
 
 
 ## Tecnologías & Arquitectura
